@@ -1,0 +1,5 @@
+C:\Dev\banco\banco\obj\Debug\net6.0\banco.csproj.AssemblyReference.cache
+C:\Dev\banco\banco\obj\Debug\net6.0\banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\banco\banco\obj\Debug\net6.0\banco.AssemblyInfoInputs.cache
+C:\Dev\banco\banco\obj\Debug\net6.0\banco.AssemblyInfo.cs
+C:\Dev\banco\banco\obj\Debug\net6.0\banco.csproj.CoreCompileInputs.cache
